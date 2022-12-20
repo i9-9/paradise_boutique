@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paradise_boutique/static/css/main.6964e7c1.css",
+    "main.js": "/paradise_boutique/static/js/main.9fb1c117.js",
+    "index.html": "/paradise_boutique/index.html",
+    "main.6964e7c1.css.map": "/paradise_boutique/static/css/main.6964e7c1.css.map",
+    "main.9fb1c117.js.map": "/paradise_boutique/static/js/main.9fb1c117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6964e7c1.css",
+    "static/js/main.9fb1c117.js"
+  ]
+}
